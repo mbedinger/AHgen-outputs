@@ -1,0 +1,20 @@
+##### PILOT-EF #####
+
+# This pilot version of the Urban Systems Abstraction Hierarchy was originally doi'd on figshare. 
+# Those files have been renamed (to reflect a naming convention for USAH outputs developed over the course of the project) and copied here.
+# Further details are provided below.
+
+# USAH_template_baseline_pilot-EF_20190605 
+# File sometimes also titled: MASTER_INPUT_CSV_2019_06_05
+# Referenced in: https://doi.org/10.1029/2019EF001389
+# DOI: https://doi.org/10.6084/m9.figshare.10008107.v1
+
+# USAH_template_baseline_pilot-EF_viz_20190607
+# File sometimes also titled: NA
+# Referenced in: NA
+# DOI: https://doi.org/10.6084/m9.figshare.8243177.v1
+
+# USAH_template_baseline_pilot-EF_vizCode_20191022
+# File sometimes also titled: NA
+# Referenced in: https://doi.org/10.1029/2019EF001389
+# DOI: https://doi.org/10.6084/m9.figshare.10012760.v2
