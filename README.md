@@ -10,6 +10,8 @@ USAH-outputs is being developed as part of the £1-million Water Resilient Citie
 The development of USAH-outputs is funded by UKRI EPSRC as part of Professor Lindsay Beever's *Water Resilient Cities project*, grant number EP/N030419/1, as well as an associated EPSRC Impact Acceleration Fund, *Urban system response and recovery: Development of an online tool to explore the impact of COVID-19*.
 
 ## Contributions & citation
-**Contributors** Melissa Bedinger, Kerri McClymont, Annie Visser-Quinn, Gordon Aitken, Chanin Songchong, David Morrison, and Lindsay Beevers.
+**Contributors** Melissa Bedinger, Kerri McClymont, Annie Visser-Quinn, Gordon Aitken, David Morrison, and Lindsay Beevers.
 
 **Contact** If you have any questions about these outputs or associated code, please contact dr.m.bedinger@gmail.com.
+
+**Please cite** Bedinger et al. (2021) USAH-outputs v0.1, Edinburgh, Scotland.
