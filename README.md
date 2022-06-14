@@ -14,5 +14,5 @@ The development of USAH-outputs is funded by UKRI EPSRC as part of Professor Lin
 
 **Contact** If you have any questions about these outputs or associated code, please contact dr.m.bedinger@gmail.com.
 
-**Please cite** Bedinger et al. (2021) USAH-outputs v3.0, Edinburgh, Scotland. https://doi.org/10.5281/zenodo.5744020 
+**Please cite** Bedinger et al. (2022) USAH-outputs v3.1, Edinburgh, Scotland. https://doi.org/10.5281/zenodo.6642202 
 [![DOI](https://zenodo.org/badge/410258600.svg)](https://zenodo.org/badge/latestdoi/410258600)
