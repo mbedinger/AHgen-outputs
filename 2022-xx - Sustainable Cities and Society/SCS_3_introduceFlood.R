@@ -1,5 +1,5 @@
 # =========================================================================
-# 4b - introduceFlood.R
+# SCS_3_introduceFlood.R
 
 # Created by: Dr Melissa Bedinger (dr.m.bedinger@gmail.com) & Dr Annie Visser-Quinn (annievisserquinn@gmail.com)
 # Created: 2020-10-10

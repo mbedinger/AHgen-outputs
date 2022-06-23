@@ -1,5 +1,5 @@
 # =========================================================================
-# HFEMSI_2_applyOSM.R
+# SCS_2_applyOSM.R
 
 # Created by: Dr Melissa Bedinger (dr.m.bedinger@gmail.com), Dr Annie Visser-Quinn (annievisserquinn@gmail.com) & Kerri McClymont (km39@hw.ac.uk)
 # Created: 2020-10-10

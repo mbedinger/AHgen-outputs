@@ -1,5 +1,5 @@
 # =========================================================================
-# HFEMSI_1_generateTemplate.R
+# SCS_1_generateTemplate.R
 
 # Created by: Dr Melissa Bedinger (dr.m.bedinger@gmail.com) & Dr Annie Visser-Quinn (annievisserquinn@gmail.com)
 # Created: 2020-10-10
