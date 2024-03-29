@@ -1,0 +1,38 @@
+Node,indicators,colour,linetype
+Animal welfare,HEALTH & WELLBEING,#EB7900,solid
+Biological hazard regulation,HEALTH & WELLBEING,#F0A410,solid
+Ceremonies and services for major life events,ECONOMY & SOCIETY,#C61919,solid
+Clean air,INFRASTRUCTURE & ECOSYSTEMS,#08AAFB,solid
+Clean water,INFRASTRUCTURE & ECOSYSTEMS,#A606E0,solid
+Clothing provision,HEALTH & WELLBEING,#F4CE1F,solid
+Communication systems,LEADERSHIP & STRATEGY,#004B23,solid
+Community activities and engagement,LEADERSHIP & STRATEGY,#007200,solid
+Distribution of goods (logistics),INFRASTRUCTURE & ECOSYSTEMS,#713DE9,solid
+Emergency services,HEALTH & WELLBEING,#F0A410,solid
+Employment provision,ECONOMY & SOCIETY,#D5414F,solid
+Energy supply,INFRASTRUCTURE & ECOSYSTEMS,#3D73F2,solid
+Environmental and geohazard regulation,INFRASTRUCTURE & ECOSYSTEMS,#08AAFB,longdash
+Environmental conservation,INFRASTRUCTURE & ECOSYSTEMS,#3D73F2,longdash
+Financial services,ECONOMY & SOCIETY,#E46986,solid
+Food provision,HEALTH & WELLBEING,#EB7900,longdash
+Foster social cohesion,ECONOMY & SOCIETY,#F391BC,solid
+Goods and services provision,ECONOMY & SOCIETY,#C61919,longdash
+Governance,LEADERSHIP & STRATEGY,#38B000,solid
+Historical and cultural value contribution,ECONOMY & SOCIETY,#D5414F,longdash
+Housing provision,HEALTH & WELLBEING,#E7E72C,longdash
+Hydrometeorological hazard regulation,INFRASTRUCTURE & ECOSYSTEMS,#713DE9,longdash
+Law and order,LEADERSHIP & STRATEGY,#9EF01A,solid
+Learning and education,LEADERSHIP & STRATEGY,#004B23,longdash
+Observance of religion,ECONOMY & SOCIETY,#E46986,longdash
+Physical security,ECONOMY & SOCIETY,#F391BC,longdash
+Planning activities,LEADERSHIP & STRATEGY,#007200,longdash
+Public health,HEALTH & WELLBEING,#F4CE1F,longdash
+Recreational activities,ECONOMY & SOCIETY,#C61919,dotted
+Road conditions and safety,INFRASTRUCTURE & ECOSYSTEMS,#A606E0,longdash
+Sanitation provision,INFRASTRUCTURE & ECOSYSTEMS,#08AAFB,dotted
+Social interaction,ECONOMY & SOCIETY,#D5414F,dotted
+Societal hazard regulation,LEADERSHIP & STRATEGY,#38B000,longdash
+Technological hazard regulation,INFRASTRUCTURE & ECOSYSTEMS,#3D73F2,dotted
+Tourism,ECONOMY & SOCIETY,#E46986,dotted
+"Travel (people, not goods)",INFRASTRUCTURE & ECOSYSTEMS,#713DE9,dotted
+Waste management,INFRASTRUCTURE & ECOSYSTEMS,#A606E0,dotted
